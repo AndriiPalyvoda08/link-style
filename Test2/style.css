@@ -1,0 +1,30 @@
+body{
+    background-color: aqua;
+}
+.bard{
+    color: blue;
+    text-align: center;
+    font-family: 'Courier New', Courier, monospace;
+}
+p{ text-align: center;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: brown;
+}
+body{
+    background-image: url(51d99eccb75807e7f2cc52b8a1fe76ef.jpg);
+    background-size: cover;
+
+}
+.far{
+    color: blue;
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-shadow: 2px 2px; 
+    list-style-type: circle;
+}
+.brag{
+    color: brown;
+    text-align: right;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    list-style-type: lower-latin;
+}
